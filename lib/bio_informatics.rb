@@ -1,0 +1,1 @@
+require 'freq_words/freq_words'

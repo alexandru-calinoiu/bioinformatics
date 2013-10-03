@@ -1,0 +1,19 @@
+# Mac OSX files
+.DS_Store
+
+# Rails stuff
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+tmp/**/*
+
+# Barcodes
+public/system/
+
+# Documentation
+TODO.rdoc
+
+# RubyMine
+.idea/*
+coverage/*
